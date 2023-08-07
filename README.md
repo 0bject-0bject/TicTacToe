@@ -4,9 +4,8 @@
 A terminal based tic tac toe game written in rust.
 
 ## Usage
-```bash
-cargo run
-```
+- Run `cargo build --release` in the root directory of this repository
+- The binary is located at `target/release/tic-tac-toe`
 
 ## Controls
 - Use numbers to select a field to place your mark
